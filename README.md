@@ -6,7 +6,7 @@ This repository holds various DevOps items
 
 ## ansible
 This is a set of Ansible automation to control applications.  Further details on how to use it
-it in this directory
+it in this directory.
 
 ## hosts
 This is a set of Ansible inventory files holding host information about systems that can be targeted by Ansible
